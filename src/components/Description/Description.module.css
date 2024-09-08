@@ -7,9 +7,16 @@
   gap: 10px;
   h1 {
     font-size: 50px;
+    span {
+      color: rgb(4, 111, 233);
+    }
   }
   p {
     font-size: 20px;
     margin-bottom: 40px;
   }
+}
+
+.cup {
+  color: rgb(4, 111, 233);
 }
